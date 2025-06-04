@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel de Souza,sou desenvolvedor Back-End.</p>
+<p align="left">Meu nome é Gabriel de Souza, sou desenvolvedor Back-End.</p>
 
 ###
 
