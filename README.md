@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estou criando projetos atualmente usando a linguagem C#<br>📚 Atualmente estou aprendendo a desenvolver em C# , React , JavaScript, HTML, CSS.<br>🎯 Tenho como meta me desenvolver no mercado de tecnologia e trabalhar em grandes empresas como a Oracle, Itaú , Banco do Brasil.</p>
+<p align="left">✨ Estou criando projetos atualmente usando a linguagem C#<br>📚 Atualmente estou aprendendo a desenvolver em C#, Java, React , JavaScript, HTML, CSS.<br>🎯 Tenho como meta me desenvolver no mercado de tecnologia e trabalhar em grandes empresas como a Oracle, Itaú , Banco do Brasil.</p>
 
 ###
 
